@@ -1,0 +1,13 @@
+{
+  "name": "brycoin-node-miner",
+  "version": "1.0.0",
+  "description": "External Brycoin (BRY) miner - runs on any machine/network with HTTP access to your Brycoin server. Uses built-in worker_threads for real parallel CPU mining.",
+  "main": "miner.js",
+  "scripts": {
+    "start": "node miner.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
