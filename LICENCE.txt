@@ -1,0 +1,24 @@
+Aki Attribution License (AAL‑1.0)
+
+Copyright (c) 2026 Bryleigh
+
+Permission is granted to use, copy, modify, merge, publish, and redistribute
+this software in any form, for any purpose, including commercial use, provided
+that proper credit is given to the original author.
+
+Required Attribution:
+All copies, redistributions, or derivative works must include a clear and
+visible notice stating:
+"Created by Bryleigh" 
+or an equivalent attribution in documentation, source files, or user-facing
+materials.
+
+You MAY NOT:
+- remove or obscure the author's name,
+- claim authorship of the original work,
+- imply endorsement by the author without explicit permission.
+
+This software is provided “as is,” without warranty of any kind. The author is
+not liable for any damages or losses resulting from the use of this software.
+
+By using this software, you agree to all terms listed above.
